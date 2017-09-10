@@ -1,4 +1,5 @@
-## Huan's Study Notes and Other Stuff
+## Huan's Study Notes
+
 
 ### Current Learning Goal
 
