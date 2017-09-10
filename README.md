@@ -1,8 +1,8 @@
 ## Huan's study notes and other stuff
 
 ### Current Learning Goal
-- [ ] Machine Learning
-- [ ] Deep Learning
+* [ ] Machine Learning
+* [ ] Deep Learning
 - [ ] Python language
 - [ ] Data science
 - [ ] M&A Fundamentals
