@@ -2,16 +2,22 @@
 
 ### Current Learning Goal
 
-- [ ] Machine Learning
-- [ ] Deep Learning
-- [ ] Python language
-- [ ] Data science
-- [ ] M&A Fundamentals
+- [ ] Tech
+  - Programming Languages
+    - [ ] Python
+    - [ ] R
+    - [ ] Javascript  
+  - [ ] Data Science
+    - [ ] Machine Learning
+    - [ ] Deep Learning
 
+- [ ] Business
+  - [ ] Kellogg-HKUST EMBA Program
+  - [ ] M&A Fundamentals
 
 ### Current Research Goal
 
-- [ ] A.I. application in industries
+- [ ] A.I. Application in Industries
   - [ ] Healthcare
   - [ ] Fintech
   - [ ] Education
