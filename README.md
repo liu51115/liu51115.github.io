@@ -13,6 +13,8 @@
 
 - Business
   - [ ] Kellogg-HKUST EMBA Program
+  - [ ] Fitch Banking Analysis Certificate
+  - [ ] Oxford Fintech Program
   - [ ] M&A Fundamentals
 
 ### Current Research Goal
